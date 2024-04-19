@@ -2,6 +2,12 @@
 
 RareTECH ハッカソン 24年 D-Team のフロントエンドの開発環境のテンプレートです。
 
+## 手順
+
+1. `docker compose up -d`
+2. `docker exec -it {コンテナ名} sh`
+3. `pnpm dev`
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
