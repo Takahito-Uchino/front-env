@@ -1,3 +1,7 @@
+# ハッカソン フロントエンド テンプレート
+
+RareTECH ハッカソン 24年 D-Team のフロントエンドの開発環境のテンプレートです。
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
